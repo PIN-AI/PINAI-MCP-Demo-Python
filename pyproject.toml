@@ -1,7 +1,7 @@
 [project]
-name = "pinai-mcp-walletdata"
+name = "pinai-mcp-demo-python"
 version = "0.1.0"
-description = "Add your description here"
+description = "Pinai MCP Demo Python"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
